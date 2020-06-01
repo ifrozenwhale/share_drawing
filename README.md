@@ -179,4 +179,18 @@ StyleConfi类继承自JDialog，以对话框的形式供选择。
 
 # UI
 
- [ui.pdf](D:\Users\Desktop\Java\sharing_board_v2\ui.pdf) 
+- 主窗口显示。
+  
+  <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/20200601203351.png" width="70%"/>
+  
+- 导出图片
+  
+  <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/20200601203451.png" width="70%"/>
+  
+- 文件保存
+
+  <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/20200601203541.png" width="70%"/>
+  
+- 加入图层
+
+  <img src="https://frozenwhale.oss-cn-beijing.aliyuncs.com/img/20200601203631.png" width=70%/>
